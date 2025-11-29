@@ -1,0 +1,1 @@
+  & "$env:ProgramFiles\Tailscale\tailscale.exe" up --authkey= --hostname=gh-runner-$env:GITHUB_RUN_ID
